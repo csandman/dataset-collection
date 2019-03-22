@@ -1,2 +1,2 @@
 # json-collection
-A collection of commonly used JSON files in multiple formats
+A collection of commonly used datasets in multiple file formats
