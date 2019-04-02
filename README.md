@@ -1,2 +1,2 @@
-# json-collection
+# dataset-collection
 A collection of commonly used datasets in multiple file formats
